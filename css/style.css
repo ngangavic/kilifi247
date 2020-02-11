@@ -128,4 +128,15 @@
 
 .footer{
     background-color: #6786a1;
+    color: white;
+    font-weight: bold;
+}
+
+.footer a{
+    color: white;
+}
+
+.inner-footer{
+    color: white;
+    background-color: #3a4d5c;
 }
