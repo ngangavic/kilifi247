@@ -1,0 +1,81 @@
+.topbar{
+    background-color: #F8F8F8;
+    border-bottom-color: #E1E1E1;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    padding: 5px;
+}
+
+.login{
+    color: #bbbbbb;
+}
+
+.login:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+
+.submit-ad{
+    background-color: #6786a1;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.submit-ad:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.facebook-link{
+    border-right-color: #E1E1E1;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.facebook-link:hover{
+    background-color: #37589b;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.twitter-link{
+    border-right-color: #E1E1E1;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.twitter-link:hover{
+    background-color: #46d4fe;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.instagram-link{
+    border-right-color: #E1E1E1;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.instagram-link:hover{
+    background-color: #a67658;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.linkedin-link{
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.linkedin-link:hover{
+    color: white;
+    background-color: #419cca;
+    padding: 5px;
+}
