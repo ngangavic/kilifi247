@@ -1,0 +1,142 @@
+.topbar{
+    background-color: #F8F8F8;
+    border-bottom-color: #E1E1E1;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    padding: 5px;
+}
+
+.login{
+    color: #bbbbbb;
+}
+
+.login:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+
+.submit-ad{
+    background-color: #6786a1;
+    color: #ffffff;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.submit-ad:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.facebook-link{
+    border-right-color: #E1E1E1;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.facebook-link:hover{
+    background-color: #37589b;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.twitter-link{
+    border-right-color: #E1E1E1;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.twitter-link:hover{
+    background-color: #46d4fe;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.instagram-link{
+    border-right-color: #E1E1E1;
+    border-right-style: solid;
+    border-right-width: 1px;
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.instagram-link:hover{
+    background-color: #a67658;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.linkedin-link{
+    color: #bbbbbb;
+    padding: 5px;
+}
+
+.linkedin-link:hover{
+    color: white;
+    background-color: #419cca;
+    padding: 5px;
+}
+
+.below-navbar{
+    background-color: #6786a1;
+    padding: 20px;
+}
+
+.search-btn{
+    background-color: #6786a1;
+    border: 1px solid #6786a1;
+}
+
+.search-btn:hover{
+    background-color: #8ca7be;
+    border: 1px solid #8ca7be;
+}
+
+.post-advert{
+     background-color: #cb3472;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.post-advert:hover{
+    background-color: #cb5c9a;
+    color: white;
+    text-decoration: none;
+}
+
+.newsletter-link{
+    margin-left: 10px;
+    color: white;
+    background-color: #5ba6e0;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.newsletter-link:hover{
+    color: white;
+    background-color: #79ace0;
+    text-decoration: none;
+}
+
+.premuim-ads{
+    background-color: #c4e6fc;
+}
+
+.footer{
+    background-color: #6786a1;
+    color: white;
+    font-weight: bold;
+}
+
+.footer a{
+    color: white;
+}
+
+.inner-footer{
+    color: white;
+    background-color: #3a4d5c;
+}
