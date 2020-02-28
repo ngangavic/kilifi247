@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Kingthings_Calligraphica_Italic
+font link: http://www.kingthingsfonts.co.uk/fonts/fonts.htm
+font author: Kingthings
+font author site: http://www.kingthingsfonts.co.uk/
+Slogan Font: Kingthings_Calligraphica_Italic
+
+icon designer: A.Varghese
+icon designer link: /Anisha Varghese
+        
+{"bg":"#3D1240","icon":"#DDBA2E","font":"#DDBA2E","slogan":"#f1ce42"}
+      
